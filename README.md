@@ -1,8 +1,6 @@
 # Cristian Contrera
 
-![Language](https://img.shields.io/badge/Language-Python-success?style=for-the-badge)
-![Language](https://img.shields.io/badge/Language-JS-success?style=for-the-badge)
-![Language](https://img.shields.io/badge/Language-C/C++-success?style=for-the-badge)
+![Language](https://img.shields.io/badge/Languages-Python%20%2F%20JS%20%2F%20C-success?style=for-the-badge)
 ![Cloud](https://img.shields.io/badge/Cloud-Aws%20%2F%20Azure%20%2F%20GCP-informational?style=for-the-badge)
 ![Containers](https://img.shields.io/badge/Containers-Docker%20%2F%20Minikube-blue?style=for-the-badge)
 ![IAAC](https://img.shields.io/badge/IACC-Terraform-blueviolet?style=for-the-badge)
