@@ -11,6 +11,13 @@
  - **LinkedIn:** [cristiancontrera95](https://www.linkedin.com/in/cristiancontrera95/)
  - **Stack-Overflow:** [cristian-contrera](https://stackoverflow.com/users/8272351/cristian-contrera)
 ---
+### GitHub stats
+
+[![Cristian Contrera's github stats](https://github-readme-stats.vercel.app/api?username=CristianContrera95&count_private=true&show_icons=true&hide=stars&include_all_commits=false)](https://github.com/CristianContrera95/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CristianContrera95&layout=compact)](https://github.com/CristianContrera95/github-readme-stats)
+
+
+---
 ### Experiencia Laboral
 <br>
 
