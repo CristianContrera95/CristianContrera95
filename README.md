@@ -22,11 +22,13 @@
 <img src="https://www.diariosumario.com.ar/u/fotografias/fotosnoticias/2015/8/25/1059.jpg" alt="drawing" width="200"/>
 
 ##### Famaf UNC, Córdoba Capital, Argentina - Degree in Computer Science
+
 FEBRUARY 2014 - DECEMBER 2019  
-Studying at 4th and 5th year with average 8/10.  
-Optional subjects studied:   
-Big Data  
-Computer Vision  
+
+Student at 4th and 5th year with average 8/10.
+- Optional subjects studied:   
+  - Big Data  
+  - Computer Vision  
 
 ---
 ## Experiencia Laboral
