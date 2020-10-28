@@ -16,12 +16,23 @@
 [![Cristian Contrera's github stats](https://github-readme-stats.vercel.app/api?username=CristianContrera95&count_private=true&show_icons=true&hide=stars&include_all_commits=false)](https://github.com/CristianContrera95/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CristianContrera95&layout=compact)](https://github.com/CristianContrera95/github-readme-stats)
 
+---
+## Estudios
+
+<img src="https://www.diariosumario.com.ar/u/fotografias/fotosnoticias/2015/8/25/1059.jpg" alt="drawing" width="200"/>
+
+##### Famaf UNC, Córdoba Capital, Argentina - Degree in Computer Science
+FEBRUARY 2014 - DECEMBER 2019  
+Studying at 4th and 5th year with average 8/10.  
+Optional subjects studied:   
+Big Data  
+Computer Vision  
 
 ---
-### Experiencia Laboral
+## Experiencia Laboral
 <br>
 
-<img src="https://wkncdn.com/newx/assets/build/img/logos-v3/free_logo_es_AR.3e937e31d.png?v=1" alt="drawing" width="150"/>
+<img src="https://3.bp.blogspot.com/---F-68ezgKY/Wl5ExT0hTBI/AAAAAAABH0I/n1V_fr--MB4-kZ0AJYarSLfaWN8LNLvEgCLcBGAs/s1600/Logo%2BWorkana.png" alt="drawing" width="200"/>
 
 OCTOBER 2019 - CURRENTLY | freelance modality 
 
@@ -38,7 +49,7 @@ OCTOBER 2019 - CURRENTLY | freelance modality
 
 <br>
 
-![PiData](https://avatars2.githubusercontent.com/u/14185940?s=60&v=4)
+<img src="https://appwebpi.azurewebsites.net/wp-content/uploads/2018/08/logo-pi-consulting-3.png" alt="drawing" width="250"/>
 
 January 2020 - Current | Córdoba Capital, Córdoba, Argentina  
 - **Computer Vision developer and Data Engineer.**
@@ -66,7 +77,7 @@ May 2019 – December 2019 | Córdoba Capital, Córdoba, Argentina
   - Development ETL scripts with pyspark in AWS.
 
 
-<img src="https://www2.personas.santander.com.ar/obp-webapp/angular/client/app/common/images/logos-topbar/logos-rojos/desktop-sr.svg" alt="drawing" width="200"/>
+<img src="https://www2.personas.santander.com.ar/obp-webapp/angular/client/app/common/images/logos-topbar/logos-rojos/desktop-sr.svg" alt="drawing" width="230"/>
 
 JANUARY 2019 - APRIL 2019 | Madrid, España
 - Development ETL python scripts and Data Analysis for market risk. 
@@ -98,16 +109,3 @@ SEPTEMBER 2017 - JULY 2018 | Córdoba Capital, Córdoba, Argentina
 - 2017: Testing and bug fixes for systems management in the Java platform.
 - 2017 - Present: Private tutor on math and algorithms to particular students. 
 - 2012: Intern Support for Internet at Cooperativa Villa Rumipal.
-
-
----
-
-### Estudios
-
-##### Famaf UNC, Córdoba Capital, Argentina - Degree in Computer Science
-FEBRUARY 2014 - DECEMBER 2019  
-Studying at 4th and 5th year with average 8/10.  
-Optional subjects studied:   
-Big Data  
-Computer Vision  
-
