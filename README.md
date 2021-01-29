@@ -51,6 +51,15 @@ OCTOBER 2019 - CURRENTLY | freelance modality
 
 <br>
 
+<img src="https://endeavor.org.co/wp-content/uploads/2019/09/Banner-Mi-%C3%81guila-para-PW-01.jpg" alt="drawing" width="250"/>
+
+January 2021 - Current | Remote
+- **Backend Django developer.**
+  - API-REST endpoints.  
+  - Django admin page.  
+  - PostgreSQL & PostGis.    
+<br>
+
 <img src="https://appwebpi.azurewebsites.net/wp-content/uploads/2018/08/logo-pi-consulting-3.png" alt="drawing" width="250"/>
 
 January 2020 - Current | Córdoba Capital, Córdoba, Argentina  
