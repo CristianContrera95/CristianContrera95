@@ -53,7 +53,7 @@ OCTOBER 2019 - CURRENTLY | freelance modality
 
 <img src="https://endeavor.org.co/wp-content/uploads/2019/09/Banner-Mi-%C3%81guila-para-PW-01.jpg" alt="drawing" width="250"/>
 
-January 2021 - Current | Remote
+January 2021 - February 2021 | Remote
 - **Backend Django developer.**
   - API-REST endpoints.  
   - Django admin page.  
